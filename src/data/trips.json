@@ -1,0 +1,26 @@
+[
+  {
+    "img": "../components/assets/images/thailand.jpg",
+    "alt": "Thailand Trip Places",
+    "name": "Thailand Trip Places",
+    "button": "View Destination"
+  },
+  {
+    "img": "../components/assets/images/desert.jpg",
+    "alt": "Sahara Desert",
+    "name": "Sahara Desert",
+    "button": "View Destination"
+  },
+  {
+    "img": "../components/assets/images/shilong.jpg",
+    "alt": "Shilong, Meghalaya",
+    "name": "Shilong, Meghalaya",
+    "button": "View Destination"
+  },
+  {
+    "img": "../components/assets/images/venice.jpg",
+    "alt": "Beauty of Italy: Venice",
+    "name": "Beauty of Italy: Venice",
+    "button": "View Destination"
+  }
+]
