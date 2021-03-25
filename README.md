@@ -19,6 +19,8 @@ Live demo: https://awesome-mccarthy-d3f4cf.netlify.app/
  
  ## Mobile View
 
+![mobile](https://user-images.githubusercontent.com/77459327/112471743-7572ca00-8d96-11eb-8a19-0fbb2676116a.png)
+
+
 ![mobilenav](https://user-images.githubusercontent.com/77459327/112471747-77d52400-8d96-11eb-81b2-cf89e18ded22.png)
 
-![mobile](https://user-images.githubusercontent.com/77459327/112471743-7572ca00-8d96-11eb-8a19-0fbb2676116a.png)
