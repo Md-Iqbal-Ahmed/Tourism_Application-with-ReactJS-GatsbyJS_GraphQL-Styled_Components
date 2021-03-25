@@ -1,6 +1,7 @@
 # Tourism web applcation with ReactJs and GatsbyJs with GraphQL.
 
-# This is a forntend application for Tourism Application. I have used GatsbyJs, REACT-JS with GarphQL data managment system. Also used React styled component library to design the web pages and react-scroll and AOS for smooth scrolling animation.
+## This is a forntend application for Tourism Application. I have used GatsbyJs, REACT-JS with GarphQL data managment system. Also used React styled component library to design the web pages and react-scroll and AOS for smooth scrolling animation.
+
 ## Application Feautres:
 
 - Image optimised with GatsbyJs.
